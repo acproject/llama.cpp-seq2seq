@@ -1,0 +1,9 @@
+- zho_Hans ：简体中文
+- zho_Hant ：繁体中文
+- eng_Latn ：英文
+- fra_Latn ：法语
+- deu_Latn ：德语
+- spa_Latn ：西语
+- jpn_Jpan ：日语
+- kor_Hang ：韩语
+- rus_Cyrl ：俄语
