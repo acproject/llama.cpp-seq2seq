@@ -15,7 +15,7 @@
 #include "ggml.h"
 #include "ggml-cpu.h"
 #include "ggml-backend.h"
-#include "ggml_extend.hpp"
+
 
 #ifdef SD_USE_CUDA
 #include "ggml-cuda.h"
